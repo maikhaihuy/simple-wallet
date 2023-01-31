@@ -1,0 +1,7 @@
+/SimpleWallet/bin/
+/SimpleWallet/obj/
+/SimpleWallet.Test/bin/
+/SimpleWallet.Test/obj/
+/.idea
+bin/
+obj/
